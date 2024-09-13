@@ -6,7 +6,7 @@ I'm an aspiring web developer currently learning and working on projects with th
 
 ## 🚀 My Projects
 ###- ***E-commerce Store***
-Check out the project [here](https://e-commerce-store-c5pq.onrender.com/) and the repository [here](https://github.com/Abhishek-Devanda/E-Commerce-Store).
+Check out the project [here](https://e-commerce-sy8f.onrender.com) and the repository [here](https://github.com/Abhishek-Devanda/E-Commerce-Store).
 
 ---
 
