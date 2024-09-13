@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Abhishek Devanda 👋
 
-<!--
-**Abhishek-Devanda/Abhishek-Devanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm an aspiring web developer currently learning and working on projects with the MERN stack. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Projects
+###- ***E-commerce Store***
+Check out the project [here](https://e-commerce-store-c5pq.onrender.com/) and the repository [here](https://github.com/Abhishek-Devanda/E-Commerce-Store).
+
+---
+
+## 📫 Let's Connect!
+
+Feel free to reach out if you want to collaborate on projects, discuss tech, or just chat!
+
+- **[X](https://x.com/Abhi_Devanda)**
+- **[LinkedIn](www.linkedin.com/in/abhishek-devanda)**
+
+Thanks for visiting my profile, and I hope you enjoy following my journey! 🙌
+
