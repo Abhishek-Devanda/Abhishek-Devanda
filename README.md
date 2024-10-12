@@ -5,7 +5,7 @@
 I'm an aspiring web developer currently learning and working on projects with the MERN stack. 
 
 ## 🚀 My Projects
-###- ***E-commerce Store***
+### **E-commerce Store**
 Check out the project [here](https://e-commerce-sy8f.onrender.com) and the repository [here](https://github.com/Abhishek-Devanda/E-Commerce-Store).
 
 ---
