@@ -15,7 +15,7 @@ Check out the project [here](https://e-commerce-sy8f.onrender.com) and the repos
 Feel free to reach out if you want to collaborate on projects, discuss tech, or just chat!
 
 - **[X](https://x.com/Abhi_Devanda)**
-- **[LinkedIn](www.linkedin.com/in/abhishek-devanda)**
+- **[LinkedIn](https://www.linkedin.com/in/abhishek-devanda)**
 
 Thanks for visiting my profile, and I hope you enjoy following my journey! 🙌
 
